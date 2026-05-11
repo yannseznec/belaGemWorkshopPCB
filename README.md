@@ -8,7 +8,7 @@ The Bela Gem has built-in 1/8" input and output connectors. This PCB also has Mo
 
 If you want to power the board via a power supply (rather than USB), there is a pin pair that is +/-. The power runs through a pair of pins labeled "Power Switch". If you don't want to use a switch, bridge these pins. If you use USB power the switch pins do nothing at all.
 
-To-do:
+## To-do:
 
 - test this! I still haven't soldered one up.
 - add silkscreen labels for the power pins (to show which side is power)
