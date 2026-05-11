@@ -2,7 +2,9 @@
 
 ## A PCB designed for the Bela Gem
 
-This board is meant to be a general-purpose PCB, specifically suited to how I use the Bela Gem. In practice, this is essentially a breakout board for all of the analog and digital pins. Each of these is accessible using individual Molex (or generic 2.54") connectors. So you can use as many or as few as you need for any given project.
+This board is meant to be a general-purpose PCB, specifically suited to how I use the Bela Gem. I call it a "workshop" PCB, with that idea that maybe I could use it for workshops one day? That would be fun.
+
+In practice, this is essentially a breakout board for all of the analog and digital pins. Each of these is accessible using individual Molex (or generic 2.54") connectors. So you can use as many or as few as you need for any given project.
 
 The Bela Gem has built-in 1/8" input and output connectors. This PCB also has Molex pins for unbalanced stereo inputs and balanced stereo outputs. The headphone output is also available as a three pin molex.
 
