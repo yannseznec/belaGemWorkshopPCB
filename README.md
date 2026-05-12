@@ -18,3 +18,5 @@ If you want to power the board via a power supply (rather than USB), there is a 
 - add silkscreen labels for one digital molex (to show which pins are what)
 - add silkscreen labels for audio inputs and outputs (starting to see a theme here)
 - mounting holes could probably be M3 (instead of M4, i'm not sure why they are M4 that seems enormous)
+- reverse the L/R on the headphone output
+- reverse the power/ground on the power pins
